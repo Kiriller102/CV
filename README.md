@@ -47,35 +47,29 @@ Design patterns, Unit tests, SOLID, KISS.
 
 - **Telegram bot for checking train availability and sending out ticket**
     **information (Python, SQLite, BeautifulSoup, PyTelebot):**
-       Creating a Telegram bot that checks for free train availability and
-       allows users to sign up for ticket availability. Using Python, 
-SQLite
-       database, BeautifulSoup library to collect information from web 
-pages,
-       and PyTelebot library to create a Telegram bot.
-       
-[(github.com/artyomshpakovski/bot_telegram)](https://github.com/artyomshpakovski/bot_telegram)
+       Creating a Telegram bot that checks for free train availability and allows users to sign up for ticket availability. Using Python, SQLite database, BeautifulSoup library to collect information from web pages, and PyTelebot library to create a Telegram bot.
+  [(github.com/artyomshpakovski/bot_telegram)](https://github.com/artyomshpakovski/bot_telegram)
 
 - **Labs work on computer graphics programming:**
+  
     ‣ Color Converter (C++, QT):
-       Creating a color converter to translate RGB, CMYK and HEX color
-       models 
-[(github.com/Kiriller102/PCG/tree/main/Lab_1)](https://github.com/Kiriller102/PCG/tree/main/Lab_1)
+       Creating a color converter to translate RGB, CMYK and HEX color models
+  [(github.com/Kiriller102/PCG/tree/main/Lab_1)](https://github.com/Kiriller102/PCG/tree/main/Lab_1)
+  
     ‣ Creating an application for reading basic image information from
       graphic files (C++, QT, openCV):
-      
-[(github.com/Kiriller102/PCG/tree/main/Lab_2)](https://github.com/Kiriller102/PCG/tree/main/Lab_2)
+  [(github.com/Kiriller102/PCG/tree/main/Lab_2)](https://github.com/Kiriller102/PCG/tree/main/Lab_2)
+
    ‣ Creating an application illustrating the work of basic raster
       algorithms, including the step-by-step algorithm, the CDA
       algorithm, the Bresenham algorithm, the Bresenham algorithm for
-      circles (Python, pyGame) 
-[(github.com/Kiriller102/PCG/tree/main/Lab_4)](https://github.com/Kiriller102/PCG/tree/main/Lab_4)
+      circles (Python, pyGame):
+   [(github.com/Kiriller102/PCG/tree/main/Lab_4)](https://github.com/Kiriller102/PCG/tree/main/Lab_4)
 
 - **Solving systems of linear algebraic equations using different 
 methods**
     **(Python, numpy):**
        Gauss, square root, simple iterations, and Gauss-Seidel.
-       
 [(github.com/Kiriller102/SLEs_Solution)](https://github.com/Kiriller102/SLEs_Solution)
 
 ## Olympiads:
